@@ -1,0 +1,8 @@
+.list-item-none {
+    list-style-type: none;
+}
+
+.actual-temp {
+    font-size: 2.5rem;
+    margin-bottom: 0;
+}
